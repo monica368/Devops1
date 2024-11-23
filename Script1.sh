@@ -4,6 +4,6 @@ echo "We are from batch-26 and learning DevOps"
 echo "Hello, Good morning!"
 echo "we are from batch-26"
 echo "learning Devops"
-echo "i am monica"
-echo "good night"
+echo "i am doing merge conflict"
+echo "adding new point into the branch"
 
