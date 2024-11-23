@@ -6,4 +6,5 @@ echo "Value of b"
 read b
 echo "Hello value of a is $a and value of b is $b"
 echo "i am adding this line branch"
-echo "This is branch1"
+echo "how are you"
+echo "I am fine"
