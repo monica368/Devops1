@@ -6,5 +6,6 @@ echo "i am adding this line branch"
 echo "how are you"
 echo "I am fine"
 echo "I am learning git conflicts"
-echo "GitHUb gitrabase"
-echo "pushing data branch1"
+echo "i am from osmanabad"
+echo "Monika Uday Kale"
+
